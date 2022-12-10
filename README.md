@@ -28,3 +28,7 @@ Use the special --preid field to get at the prerelease id
 $ npx semver-parser-cli 4.5.3-beta.1 --field preid
 beta
 ```
+
+## License
+
+[MIT](./LICENSE.md)

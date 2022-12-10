@@ -11,5 +11,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/harmony7/semver-parser-cli.git"
-  }
+  },
+  "license": "MIT"
 }
